@@ -84,10 +84,27 @@ strong {
    margin-left: 540px;
 }
 
+/* rodape */
 
+.rotapé {
+   background-color: black;
+}
 
 .titulo-rotapé {
    text-align: center;
    margin-top: 10px;
    font-size: 1.875rem;
+   color: white;
+}
+
+.img-rotapé {
+   width: 100px;
+   display: flex;
+   align-items: baseline;
+}
+
+.cont-rotapé {
+   color: white;
+   text-align: center;
+   font-size: 1.15rem;
 }
